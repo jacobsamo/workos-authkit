@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3
+
+fix: remove assertion of WEBHOOK_ACTION_SECRET
+
 ## 0.1.2
 
 - fix: temporarily pin @workos-inc/node to avoid crypto import
