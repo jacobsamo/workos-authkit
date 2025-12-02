@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+
+- fix: upgrade @workos-inc/node for crypto error fix
+
 ## 0.1.3
 
 fix: remove assertion of WEBHOOK_ACTION_SECRET
